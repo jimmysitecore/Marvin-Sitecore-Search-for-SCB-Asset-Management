@@ -25,7 +25,7 @@ const Home = () => {
         <HeroContentWrapper>
           <HeroContentRow>
             <HeroAlignCenter>
-              <h1>Ministry of Education powered by Sitecore Search</h1>
+              <h1>HKEX powered by Sitecore Search</h1>
             </HeroAlignCenter>
           </HeroContentRow>
       </HeroContentWrapper>
