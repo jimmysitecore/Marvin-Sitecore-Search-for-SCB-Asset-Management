@@ -4,7 +4,7 @@ export default [
     label: 'English',
   },
   {
-    value: 'th',
-    label: 'Thai',
+    value: 'zh',
+    label: 'Chinese',
   },
 ];
