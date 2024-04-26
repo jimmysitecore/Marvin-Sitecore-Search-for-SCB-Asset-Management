@@ -1,4 +1,4 @@
 export default {
   en: { country: 'gb', language: 'en' },
-  th: { country: 'th', language: 'th' },
+  th: { country: 'hk', language: 'zh' },
 };
