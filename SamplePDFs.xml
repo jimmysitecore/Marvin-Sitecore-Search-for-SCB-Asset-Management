@@ -1,86 +1,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://www.jupiteram.com/ksys-document-library/services/documents/retrieveDocument/?token=4ff7aa78-fe0a-40d0-9396-2f7653735e89&amp;clientCode=f92527e3d4599dd5824de5e82cd2f4c4fda401ef&amp;filename=Jupiter%20Global%20Sustainable%20Equities%20Fund%20Jupiter%20Global%20Sustainable%20Equities%20Fund%20UT%20Annual%20Report.pdf</loc>
+        <loc>https://marketcd.gti.com.hk/-/media/HKEX-Market/new-FINI-media-presentation-6-July-2021C.pdf</loc>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://www.jupiteram.com/ksys-document-library/services/documents/retrieveDocument/?token=4ff7aa78-fe0a-40d0-9396-2f7653735e89&amp;clientCode=b0003ffb228cb0ed6f338b86b2a63018771f1609&amp;filename=Chrysalis%20Investments%20Limited%20Chrysalis%20Investments%20Limited%20Factsheet.pdf</loc>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>https://www.jupiteram.com/ksys-document-library/services/documents/retrieveDocument/?token=4ff7aa78-fe0a-40d0-9396-2f7653735e89&amp;clientCode=603b4fdd4eca03fb9ce7c556938bf878e5d9ba41&amp;filename=Chrysalis%20Investments%20Limited%20Chrysalis%20Investments%20Limited%20KID.pdf</loc>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>https://www.jupiteram.com/ksys-document-library/services/documents/retrieveDocument/?token=4ff7aa78-fe0a-40d0-9396-2f7653735e89&amp;clientCode=89ce586a5416bc44c125a200e91c39460f8a4b83&amp;filename=Jupiter%20Asia%20Pacific%20Income%20Fund%20(IRL)%20Jupiter%20Asia%20Pacific%20Income%20Fund%20(IRL)%20Supplement.pdf</loc>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>https://www.jupiteram.com/ksys-document-library/services/documents/retrieveDocument/?token=4ff7aa78-fe0a-40d0-9396-2f7653735e89&amp;clientCode=07a18ea227b14cd34a27b20e6485aa9149877065&amp;filename=%20Jupiter%20Asset%20Management%20Series%20PLC%20Annual%20Report.pdf</loc>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>https://www.jupiteram.com/ksys-document-library/services/documents/retrieveDocument/?token=4ff7aa78-fe0a-40d0-9396-2f7653735e89&amp;clientCode=b59e18aca9b5da47361477c2a7c783f2f21b05a7&amp;filename=%20Jupiter%20Asset%20Management%20Series%20PLC%20Global%20Supplement.pdf</loc>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>https://www.jupiteram.com/ksys-document-library/services/documents/retrieveDocument/?token=4ff7aa78-fe0a-40d0-9396-2f7653735e89&amp;clientCode=1c29f799d01dfee590d479a8a37dc1134593018a&amp;filename=%20Jupiter%20Asset%20Management%20Series%20PLC%20Prospectus%20UK%20LU%20AT.pdf</loc>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>https://www.jupiteram.com/ksys-document-library/services/documents/retrieveDocument/?token=4ff7aa78-fe0a-40d0-9396-2f7653735e89&amp;clientCode=1c29f799d01dfee590d479a8a37dc1134593018a&amp;filename=%20Jupiter%20Asset%20Management%20Series%20PLC%20Prospectus%20UK%20LU%20AT.pdf</loc>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>https://www.jupiteram.com/ksys-document-library/services/documents/retrieveDocument/?token=4ff7aa78-fe0a-40d0-9396-2f7653735e89&amp;clientCode=QIR-IE0005264431-en-GB&amp;filename=%20Jupiter%20Asia%20Pacific%20Income%20Fund%20(IRL)%20Quarterly%20Investment%20Report%20English%20Great%20Britain.pdf</loc>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>https://www.jupiteram.com/ksys-document-library/services/documents/retrieveDocument/?token=4ff7aa78-fe0a-40d0-9396-2f7653735e89&amp;clientCode=748a8806-e3e7-4de9-9719-01526bc1ac0c&amp;filename=Jupiter%20Asia%20Pacific%20Income%20Fund%20(IRL)%20Factsheet-GB-Retail-IE0031333341-en-GB.pdf</loc>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>https://www.jupiteram.com/ksys-document-library/services/documents/retrieveDocument/?token=4ff7aa78-fe0a-40d0-9396-2f7653735e89&amp;clientCode=e5789ff8c3c5f9cf7d09ec83e6b8c15922a0ad3f&amp;filename=%20Jupiter%20Asset%20Management%20Series%20PLC%20-%20Notice%20of%20Annual%20General%20Meeting%20English.pdf</loc>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>https://www.jupiteram.com/ksys-document-library/services/documents/retrieveDocument/?token=4ff7aa78-fe0a-40d0-9396-2f7653735e89&amp;clientCode=b95162973f9876989df9db2e5a31eea9aacafb93&amp;filename=%20Jupiter%20Asset%20Management%20Series%20PLC%20Interim%20Report.pdf</loc>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>https://www.jupiteram.com/ksys-document-library/services/documents/retrieveDocument/?token=4ff7aa78-fe0a-40d0-9396-2f7653735e89&amp;clientCode=QIR-IE0005264431-en-GB&amp;filename=%20Jupiter%20Asia%20Pacific%20Income%20Fund%20(IRL)%20Quarterly%20Investment%20Report%20English%20Great%20Britain.pdf</loc>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>https://www.jupiteram.com/ksys-document-library/services/documents/retrieveDocument/?token=4ff7aa78-fe0a-40d0-9396-2f7653735e89&amp;clientCode=89ce586a5416bc44c125a200e91c39460f8a4b83&amp;filename=Jupiter%20Asia%20Pacific%20Income%20Fund%20(IRL)%20Jupiter%20Asia%20Pacific%20Income%20Fund%20(IRL)%20Supplement.pdf</loc>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>https://www.jupiteram.com/ksys-document-library/services/documents/retrieveDocument/?token=4ff7aa78-fe0a-40d0-9396-2f7653735e89&amp;clientCode=922e8628d710355917e2e4fe54fe9d4c6d898ea9&amp;filename=Jupiter%20Asian%20Income%20Fund%20Jupiter%20Asian%20Income%20Fund%20Fund%20In%20Focus.pdf</loc>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>https://www.jupiteram.com/ksys-document-library/services/documents/retrieveDocument/?token=4ff7aa78-fe0a-40d0-9396-2f7653735e89&amp;clientCode=922e8628d710355917e2e4fe54fe9d4c6d898ea9&amp;filename=Jupiter%20Asian%20Income%20Fund%20Jupiter%20Asian%20Income%20Fund%20Fund%20In%20Focus.pdf</loc>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>https://www.jupiteram.com/ksys-document-library/services/documents/retrieveDocument/?token=4ff7aa78-fe0a-40d0-9396-2f7653735e89&amp;clientCode=c21d7b6f-bdda-4099-997d-910631a15e79&amp;filename=Jupiter%20Asia%20Pacific%20Income%20Fund%20(IRL)%20Factsheet-GB-Retail-IE00B01FHV31-en-GB.pdf</loc>
+        <loc>https://marketcd.gti.com.hk/-/media/HKEX-Market/Products/Securities/Naming-Conventions-of-Stock-Short-Name-by-Product-Types/English-Inline-Warrant-Factsheet-v2_1_en.pdf</loc>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
