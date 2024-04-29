@@ -6,6 +6,8 @@ function extract(request, response) {
 
   var scbUrl = $('meta[property="og:url"]').attr("content") || url;
 
+  var scbImageUrl = "";
+
   // var scbUrl = location.href;
   var scbUrlArray = scbUrl.split("/");
 
@@ -15,8 +17,39 @@ function extract(request, response) {
     if (scbType == "products") {
       scbType = "Products";
       scbImageUrl = "https://cdn.corporatefinanceinstitute.com/assets/hong-kong-dollar-hkd.jpeg";
-
     }
+
+    else if (scbType == "join-our-market") {
+      scbType = "Join Our Market";
+      scbImageUrl = "https://www.hkex.com.hk/Market/home/media_20240426145320/ETFSpotlight6Tile.jpg";
+    }
+
+    else if (scbType == "services") {
+      scbType = "Services";
+      scbImageUrl = "https://www.hkex.com.hk/Market/home/media_20240426145320/home_LME_700x385.jpg";
+    }
+
+    else if (scbType == "global") {
+      scbType = "Global";
+      scbImageUrl = "https://www.hkex.com.hk/Market/home/media_20240426145320/1ppl_300x200.jpg";
+    }
+
+    else if (scbType == "news") {
+      scbType = "News";
+      scbImageUrl = "https://www.hkex.com.hk/Market/home/media_20240426145320/2ppl_300x200.jpg";
+    }
+
+    else if (scbType == "market-data") {
+      scbType = "Market Data";
+      scbImageUrl = "https://www.hkex.com.hk/Market/home/media_20240426145320/mega_menu_highlight_listing_newsletter_issue2_300x200.jpg";
+    }
+
+
+    else if (scbType == "listing") {
+      scbType = "Listing";
+      scbImageUrl = "https://www.hkex.com.hk/Market/home/media_20240426145320/HKEX%20IWD%202024%20Tile%20Image.jpg";
+    }
+
     else {
       scbType = "Others";
     }

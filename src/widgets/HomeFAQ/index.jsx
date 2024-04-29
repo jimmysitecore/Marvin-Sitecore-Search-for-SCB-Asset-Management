@@ -13,7 +13,7 @@ const HomeHeroWidget = () => {
   } = useQuestions({
     state: {
       //keyphrase: 'When are shark populations healthiest',
-      keyphrase: 'Hong Kong',
+      keyphrase: 'stock',
       relatedQuestions: 3,
     },
   });
